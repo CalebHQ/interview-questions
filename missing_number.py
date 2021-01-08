@@ -2,7 +2,7 @@
 
 def missing(list):
     last_num = list[-1]
-    natural_sum = (last_num * (last_num +1 )) // 2
+    natural_sum = (last_num * (last_num + 1)) // 2
     
     sum = 0
     for i in list:

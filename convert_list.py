@@ -1,4 +1,4 @@
-# Conversion of two list into Dictionary
+# Conversion of two list into Dictionary without zip()
 
 def convert(list1, list2):
     temp = {}
